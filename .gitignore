@@ -1,0 +1,14 @@
+# Arquivos criados pela compilação
+/mandelbrot_seq
+/mandelbrot_omp
+/mandelbrot_pth
+/*.ppm
+*.o
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Relatório de entrega acadêmica: manter só local
+/relatorio_ep1.pdf
+/LEIA-ME.txt
